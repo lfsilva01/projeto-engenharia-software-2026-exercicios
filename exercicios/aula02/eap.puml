@@ -1,0 +1,53 @@
+@startwbs
+
+* 1. Sistema de Gestão da Biblioteca do Campus
+
+** 1.1 Documentos de gerenciamento do projeto
+*** 1.1.1 Plano do projeto elaborado e aprovado [24h]
+*** 1.1.2 Registro de acompanhamento do projeto atualizado [32h]
+*** 1.1.3 Registro dos riscos do projeto elaborado [16h]
+
+** 1.2 Documento de requisitos aprovado
+*** 1.2.1 Requisitos levantados com as servidoras [16h]
+*** 1.2.2 Documento de requisitos elaborado [24h]
+*** 1.2.3 Documento de requisitos validado e aprovado [16h]
+
+** 1.3 Arquitetura e base de dados definidas
+*** 1.3.1 Arquitetura do sistema definida [24h]
+*** 1.3.2 Modelo da base de dados elaborado [24h]
+*** 1.3.3 Ambiente de desenvolvimento preparado [16h]
+
+** 1.4 Módulo de gestão do acervo funcionando
+*** 1.4.1 Cadastro e atualização das obras funcionando [40h]
+*** 1.4.2 Consulta ao acervo funcionando [32h]
+*** 1.4.3 Módulo do acervo testado e corrigido [24h]
+
+** 1.5 Módulo de empréstimos e devoluções funcionando
+*** 1.5.1 Registro de empréstimos funcionando [40h]
+*** 1.5.2 Registro de devoluções e controle de atrasos funcionando [32h]
+*** 1.5.3 Módulo de empréstimos testado e corrigido [24h]
+
+** 1.6 Relatórios e backup funcionando
+*** 1.6.1 Relatório de obras em atraso funcionando [24h]
+*** 1.6.2 Backup automatizado configurado e funcionando [24h]
+*** 1.6.3 Relatórios e backup testados e aprovados [16h]
+
+** 1.7 Dados migrados e validados
+*** 1.7.1 Dados disponíveis do sistema antigo migrados [40h]
+*** 1.7.2 Dados migrados conferidos e validados [24h]
+
+** 1.8 Exemplares preparados para o novo sistema
+*** 1.8.1 Códigos de identificação definidos para os exemplares [24h]
+*** 1.8.2 Exemplares etiquetados [64h]
+
+** 1.9 Sistema implantado e aceito
+*** 1.9.1 Sistema instalado no ambiente da biblioteca [24h]
+*** 1.9.2 Testes de aceitação realizados com as servidoras [24h]
+*** 1.9.3 Problemas identificados corrigidos [40h]
+
+** 1.10 Servidoras treinadas e documentação entregue
+*** 1.10.1 Treinamento das três servidoras realizado [16h]
+*** 1.10.2 Manual de uso elaborado e entregue [24h]
+*** 1.10.3 Documentação técnica entregue [16h]
+
+@endwbs
